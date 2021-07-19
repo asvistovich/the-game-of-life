@@ -24,5 +24,6 @@ go install github.com/asvistovich/the-game-of-life
 
 ## Examples
 
-![20210719092327.gif](https://github.com/asvistovich/the-game-of-life/examples/20210719092327.gif)  
+[a link](https://github.com/asvistovich/the-game-of-life/blob/main/examples/20210719092327.gif)
 
+![20210719092327.gif](https://media.giphy.com/media/57UG2EAm8HJeNVQOWl/giphy.gif)
